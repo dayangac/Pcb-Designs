@@ -1,7 +1,10 @@
 # LED PATTERN GENERATOR ASIC: CHIP 1.0
 
 ## NON TECHNICAL INTRO
-Dear reader this is the readme file for my first ASIC design a simple led pattern generator that I got inspired to do after I first heard about ASIC and how I could make and then get one manufactured. Hope it catches your interest.  
+Dear reader this is the readme file for my first ASIC design a simple led pattern generator that I got inspired to do after I first heard about ASIC and how I could make and then get one manufactured. Hope it catches your interest. 
+
+## Note
+Design sent to TinyTapeout for addition to a real chip
 
 ## TECHNICAL SPECIFICATION DOCUMENT v1.0
 
