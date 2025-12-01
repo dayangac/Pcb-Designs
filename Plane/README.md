@@ -1,1 +1,2 @@
-pcb for research about wing angle
+pcb for research about wing angle and rpm
+ 
